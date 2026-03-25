@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi ! I'm Preksha ~
 AI & Data Science engineering student with a passion for Machine Learning and NLP. I focus on building practical, real-world projects and continuously enhancing my skills in Python and data-driven technologies. Always curious, always learning, and eager to create impactful AI solutions.
 
 
